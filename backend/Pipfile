@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+uvicorn = "*"
+beautifulsoup4 = "*"
+pydantic = "*"
+typing = "*"
+pandas = "*"
+joblib = "*"
+scikit-learn = "*"
+requests = "*"
+
+[dev-packages]
+
+
